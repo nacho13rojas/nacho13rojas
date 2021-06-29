@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ignacio Rojas</h1>
-<h3 align="center">A React Native Senior Developer and Digital Technology Leader</h3>
+<h1>Hi 👋, I'm Ignacio Rojas</h1>
+<h3>React Native Senior Developer and Digital Technology Leader</h3>
 
 - 🔭 I’m currently working on [Nav, from DASA](https://apps.apple.com/br/app/nav-exames-e-consultas-online/id1553834596)
 
