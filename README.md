@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ignacio Rojas</h1>
-<h3>React Native Senior Developer and Digital Technology Leader</h3>
+<h3>React Native Senior Developer and Technical Lead</h3>
 
 - 🔭 I’m currently working on [DASA](https://www.dasa.com.br)
 
